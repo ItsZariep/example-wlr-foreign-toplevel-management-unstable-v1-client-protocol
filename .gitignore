@@ -1,0 +1,4 @@
+*.o
+wlr-foreign-toplevel-management-unstable-v1-client-protocol.c
+wlr-foreign-toplevel-management-unstable-v1-client-protocol.h
+toplevel-list-example
